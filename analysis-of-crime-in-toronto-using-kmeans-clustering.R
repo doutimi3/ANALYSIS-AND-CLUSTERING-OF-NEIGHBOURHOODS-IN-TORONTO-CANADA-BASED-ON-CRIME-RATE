@@ -1,9 +1,4 @@
-# import libraries--------------
-install.packages("ggthemes")
-install.packages("ggmap")
-install.packages("maps")
-install.packages("factoextra")
-install.packages("GGally") # creating pairplot
+
 
 # Libraries
 library(ggplot2)
